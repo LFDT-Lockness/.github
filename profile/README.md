@@ -2,7 +2,7 @@
 <img src=../assets/lockness-positive-stroke.png alt=Lockness width=60% />
 <p></p>
 <p>
-Part of the <b>Linux Foundation's Distributed Trust</b> initiative.
+Part of the <b>Linux Foundation's Decentralized Trust</b> initiative.
 </p>
 <p>
 Our mission is to make <b>Multi-Party Computation (MPC)</b> and <b>Threshold Signature Schemes (TSS)</b> simple, safe, and accessible for both implementors and end-users.
