@@ -26,7 +26,7 @@ allowing complex protocols to be expressed as clean `async` functions.
 
 This design makes protocols:
 * ✅ Easy to Implement: Follow a natural, function-like flow.
-* 🧐 Easy to Review & Audit: Logic is clear, concise, and self-contained.
+* 🔍 Easy to Review & Audit: Logic is clear, concise, and self-contained.
 * 🛠️ Packed with Utilities: Comes with built-in protocol simulation, an optional synchronous API, and
   other essential tools to streamline development and testing.
 
