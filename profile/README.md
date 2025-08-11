@@ -70,7 +70,7 @@ Our protocols are built on a set of powerful, generic libraries.
   collision attacks across different data structures.
 * ...and many others that you can explore in our repositories!
 
-## Contribute Your Protocol 🤝
+## Contribute Your Protocol
 
 The **Lockness** ecosystem is designed to be open and extensible. Our `round-based` framework isn't just
 for our own protocols—it's for the entire community.
