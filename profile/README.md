@@ -1,6 +1,6 @@
 <div align="center">
-<br />
-<h1>Welcome to Lockness</h1>
+<img src=../assets/lockness-positive-stroke.png alt=Lockness width=60% />
+<p></p>
 <p>
 Part of the <b>Linux Foundation's Distributed Trust</b> initiative.
 </p>
